@@ -40,12 +40,14 @@ A perfect tool for learners, designers, and hobby sketchers! ✍️
 
 ## 📂 Project Structure
 
+```
 lib/
-├── main.dart
-├── home_screen.dart
-└── camera_drawing.dart
+ ├── main.dart
+ ├── home_screen.dart
+ └── camera_drawing.dart
 assets/
-└── (future images)
+ └── (future images)
+```
 
 ---
 
@@ -58,22 +60,21 @@ Make sure you have installed:
 - Android Emulator or physical device
 
 ### 🔧 Installation & Run
-
 ```sh
 git clone https://github.com/Alfiya-Muhammed/tracewhiz.git
 cd tracewhiz
 flutter pub get
 flutter run
-To run on a specific device:
 
-sh
-Copy code
+To run on a specific device:
 flutter devices
 flutter run -d <device_id>
 
-🛠️ Tech Stack
-Technology	Purpose
-Flutter + Dart	App Development
-camera plugin	Live camera feed
-image_picker	Image selection
-Provider/GetX (optional future)	State Management
+## 🛠️ Tech Stack
+
+| Technology     | Purpose                    |
+|----------------|----------------------------|
+| Flutter + Dart | App Development            |
+| camera plugin  | Live camera feed           |
+| image_picker   | Pick images from gallery   |
+
