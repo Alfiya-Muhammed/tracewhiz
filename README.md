@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.35+-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Windows-success" />
-  <img src="https://img.shields.io/github/license/Alfiya-Muhammed/tracewhiz" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
 </p>
 
@@ -47,9 +46,6 @@ lib/
 └── camera_drawing.dart
 assets/
 └── (future images)
-
-yaml
-Copy code
 
 ---
 
